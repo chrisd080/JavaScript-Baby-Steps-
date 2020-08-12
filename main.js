@@ -1,7 +1,7 @@
-function here() {
-    document.getElementById('Homer').src='homer 2.jpg';
+function laugh() {
+    document.getElementById('Girl').src='girl 1.jpg';
 }
 
-function gone() {
-    document.getElementById('Homer').src='homer 1.jpeg';
+function stop() {
+    document.getElementById('Girl').src='girl 2.jpg';
 }
